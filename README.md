@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to be a front-end developer!
 - 👩🏽‍💻 Some of my skills are HTML & HTML5, CSS, Domains, WEB HOSTING,FTP, Git Version Control, Command line, Working with local & remote repositories
 - 💞️ I’m looking to collaborate on fun and creative projects
-- 📫 How to reach me via email (conyegbula30@gmail.com)
+- 📫 Reach me via email (conyegbula30@gmail.com)
 
 <!---
 ChisomLaura/ChisomLaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
