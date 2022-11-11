@@ -1,6 +1,5 @@
 - 👋 Hi there, I’m @ChisomLaura.
 - 👀 I’m interested in learning new things, working on exciting projects, travel and personal development.
-- 🌱 I am a front-end web developer!
 - 👩🏽‍💻 Some of my skills are HTML & HTML5, CSS, Web hosting & FTP, Git Version Control & Github , Command line, Text editors, CodeSandbox, Vanilla Javascript, React.js.
 - 💞️ I’m looking to collaborate on fun and creative projects/work.
 - 📫 Reach me via email (conyegbula30@gmail.com).
